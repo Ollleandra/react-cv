@@ -1,0 +1,9 @@
+footer{
+  height: 25vh;
+  background-color: $deep-gray;
+  padding-top: remy(44);
+  .footer-contacts a{
+    color: $white;
+    text-decoration: none;
+  }
+}
